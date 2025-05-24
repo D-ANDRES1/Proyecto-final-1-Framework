@@ -11,7 +11,7 @@ using Microsoft.Office.Core;
 using Newtonsoft.Json.Linq;
 using PowerPoint = Microsoft.Office.Interop.PowerPoint;
 using Word = Microsoft.Office.Interop.Word;
-
+//https://drive.google.com/drive/folders/1qxfDSkRZyIS7iLl9M3tNFrilbHv66rAG?usp=drive_link explicacion del video
 //// "GroqApiKey": "",
 //"GroqEndpoint": "https://api.groq.com/openai/v1/chat/completions",
 //    "GroqModel": "llama-3.1-8b-instant",
